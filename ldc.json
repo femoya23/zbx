@@ -43,7 +43,7 @@
   },
   {
     "key" : "PR",
-    "name" : "Paraná",
+    "name" : "63-BETTA-BRCCV02-FWE001",
     "latitude" : -25.4195,
     "longitude" : -49.2646
   },
@@ -91,7 +91,7 @@
   },
   {
     "key" : "RN",
-    "name" : "Rio Grande do Norte",
+    "name" : "63-BETTA-BRITR01-FWE001",
     "latitude" : -5.79357,
     "longitude" : -35.1986
   },
@@ -115,7 +115,7 @@
   },
   {
     "key" : "PE",
-    "name" : "Pernambuco",
+    "name" : "63-BETTA-BRCFS01-FWE001",
     "latitude" : -8.04666,
     "longitude" : -34.8771
   },
@@ -127,7 +127,7 @@
   },
   {
     "key" : "RJ",
-    "name" : "Rio de Janeiro",
+    "name" : "63-BETTA-BRMHO01-FWE001",
     "latitude" : -22.9129,
     "longitude" : -43.2003
   },
@@ -145,7 +145,7 @@
   },
   {
     "key" : "SP",
-    "name" : "São Paulo",
+    "name" : "63-BETTA-BRNMU03-FWE001",
     "latitude" : -23.5329,
     "longitude" : -46.6395
   },
