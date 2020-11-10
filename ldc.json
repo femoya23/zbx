@@ -851,5 +851,11 @@
     "name": "BRVAG01",
     "latitude": -21.5905,
     "longitude":-45.4878
+  },
+  {
+    "key": "BRSSZ02",
+    "name": "BRSSZ02",
+    "latitude": -23.9799,
+    "longitude": -46,2925
   }
  ]
