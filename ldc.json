@@ -858,5 +858,17 @@
     "name": "BRSSZ02",
     "latitude": -23.9799,
     "longitude":-46.2926
+  },
+  {
+    "key": "BROPS01",
+    "name": "BROPS01",
+    "latitude": -11.8474,
+    "longitude":-55.5036
+  },
+  {
+    "key": "BRPGI01",
+    "name": "BRPGI01",
+    "latitude": -17.9072,
+    "longitude":-51.67786
   }
  ]
