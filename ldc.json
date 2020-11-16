@@ -870,5 +870,47 @@
     "name": "BRPGI01",
     "latitude": -17.9072,
     "longitude":-51.67786
+  },
+  {
+    "key": "BRNCA01",
+    "name": "BRNCA01",
+    "latitude": -16.9197,
+    "longitude":-51.8554
+  },
+  {
+    "key": "BRCVE01",
+    "name": "BRCVE01",
+    "latitude": -15.5509,
+    "longitude":-55.1671
+  },
+  {
+    "key": "BRTLZ02",
+    "name": "BRTLZ02",
+    "latitude": -18.1680,
+    "longitude":-47.9192
+  },
+  {
+    "key": "BRCFS02",
+    "name": "BRCFS02",
+    "latitude": -10.6424,
+    "longitude":-51.5701
+  },
+  {
+    "key": "BRCGB01",
+    "name": "BRCGB01",
+    "latitude": -15.5720,
+    "longitude":-56.0783
+  },
+  {
+    "key": "BREST01",
+    "name": "BREST01",
+    "latitude": -17.5622,
+    "longitude":-51.8866
+  },
+  {
+    "key": "BRSOO01",
+    "name": "BRSOO01",
+    "latitude": -12.9648,
+    "longitude":-55.4380
   }
  ]
