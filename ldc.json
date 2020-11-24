@@ -960,5 +960,41 @@
     "name": "BRMAT01",
     "latitude": -21.6381,
     "longitude":-48.3535
+  },
+  {
+    "key": "BRLMR01",
+    "name": "BRLMR01",
+    "latitude": -20.3834,
+    "longitude":-47.4971
+  },
+  {
+    "key": "BRPJR02",
+    "name": "BRPJR02",
+    "latitude": -21.9902,
+    "longitude":-49.4680
+  },
+  {
+    "key": "BRSJI01",
+    "name": "BRSJI01",
+    "latitude": -22.1093,
+    "longitude":-49.5373
+  },
+  {
+    "key": "BRURU01",
+    "name": "BRURU01",
+    "latitude": -14.5284,
+    "longitude":-49.1566
+  },
+  {
+    "key": "BRTBT01",
+    "name": "BRTBT01",
+    "latitude": -21.7378,
+    "longitude":-48.6881
+  },
+  {
+    "key": "BRPVI01",
+    "name": "BRPVI01",
+    "latitude": -23.0865,
+    "longitude":-52.4025
   }
  ]
