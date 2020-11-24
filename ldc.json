@@ -908,9 +908,57 @@
     "longitude":-51.8866
   },
   {
+    "key": "BRSDT02",
+    "name": "BRSDT02",
+    "latitude": -21.9360,
+    "longitude":-49.8068
+  },
+  {
     "key": "BRSOO01",
     "name": "BRSOO01",
     "latitude": -12.9648,
     "longitude":-55.4380
+  },
+  {
+    "key": "BRUDI02",
+    "name": "BRUDI02",
+    "latitude": -19.1145,
+    "longitude":-48.6329
+  },
+  {
+    "key": "BRUDI03",
+    "name": "BRUDI03",
+    "latitude": -18.9990,
+    "longitude":-48.6107
+  },
+  {
+    "key": "BRIRP01",
+    "name": "BRIRP01",
+    "latitude": -20.0310,
+    "longitude":-47.5455
+  },
+  {
+    "key": "BRPGU01",
+    "name": "BRPGU01",
+    "latitude": -20.1705,
+    "longitude":-47.2982
+  },
+  {
+    "key": "BRSJQ01",
+    "name": "BRSJQ01",
+    "latitude": -22.0022,
+    "longitude":-49.6926
+  },
+  {
+    "key": "BRSSB01",
+    "name": "BRSSB01",
+    "latitude": -21.9516,
+    "longitude":-49.7126
+  },
+  {
+    "key": "BRMAT01",
+    "name": "BRMAT01",
+    "latitude": -21.6381,
+    "longitude":-48.3535
   }
  ]
