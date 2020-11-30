@@ -996,5 +996,65 @@
     "name": "BRPVI01",
     "latitude": -23.0865,
     "longitude":-52.4025
+  },
+  {
+    "key": "BRBOC01",
+    "name": "BRBOC01",
+    "latitude": -22.1115,
+    "longitude":-47.7412
+  },
+  {
+    "key": "BRSSP01",
+    "name": "BRSSP01",
+    "latitude": -20.9475,
+    "longitude":-46.9355
+  },
+  {
+    "key": "BRSSP02",
+    "name": "BRSSP02",
+    "latitude": -22.1115,
+    "longitude":-47.7412
+  },
+  {
+    "key": "BRSDT01",
+    "name": "BRSDT01",
+    "latitude": -22.5023,
+    "longitude":-49.7723
+  },
+  {
+    "key": "BRSPP03",
+    "name": "BRSPP03",
+    "latitude": -23.1392,
+    "longitude":-48.6515
+  },
+  {
+    "key": "BRPCO01",
+    "name": "BRPCO01",
+    "latitude": -18.9451,
+    "longitude":-47.0075
+  },
+  {
+    "key": "BRPGZ01",
+    "name": "BRPGZ01",
+    "latitude": -25.2242,
+    "longitude":-50.0606
+  },
+  {
+    "key": "BRMTP01",
+    "name": "BRMTP01",
+    "latitude": -20.3223,
+    "longitude":-42.2685
+  },
+  {
+    "key": "BRPNG01",
+    "name": "BRPNG01",
+    "latitude": -25.5039,
+    "longitude":-48.5066
+  },
+  {
+    "key": "BRPNS01",
+    "name": "BRPNS01",
+    "latitude": -22.3617,
+    "longitude":-48.7098
   }
  ]
