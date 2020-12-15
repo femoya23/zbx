@@ -1056,5 +1056,95 @@
     "name": "BRPNS01",
     "latitude": -22.3617,
     "longitude":-48.7098
+  },
+  {
+    "key": "BRSML01",
+    "name": "BRSML01",
+    "latitude": -22.7567,
+    "longitude":-48.6154
+  },
+  {
+    "key": "BRAVA01",
+    "name": "BRAVA01",
+    "latitude": -23.0905,
+    "longitude":-48.9332
+  },
+  {
+    "key": "BRDOU01",
+    "name": "BRDOU01",
+    "latitude": -22.2240,
+    "longitude":-54.7868
+  },
+  {
+    "key": "BRMOB02",
+    "name": "BRMOB02",
+    "latitude": -21.9869,
+    "longitude":-48.1896
+  },
+  {
+    "key": "BRMHO02",
+    "name": "BRMHO02",
+    "latitude": -22.9790,
+    "longitude":-48.6160
+  },
+  {
+    "key": "BRIAT02",
+    "name": "BRIAT02",
+    "latitude": -23.2009,
+    "longitude":-48.4729
+  },
+  {
+    "key": "BRSJA01",
+    "name": "BRSJA01",
+    "latitude": -21.1092,
+    "longitude":-47.2659
+  },
+  {
+    "key": "BRSHA01",
+    "name": "BRSHA01",
+    "latitude": -22.8493,
+    "longitude":-48.6013
+  },
+  {
+    "key": "BRMGF01",
+    "name": "BRMGF01",
+    "latitude": -23.4181,
+    "longitude":-51.9271
+  },
+  {
+    "key": "BRSTS03",
+    "name": "BRSTS03",
+    "latitude": -23.8511,
+    "longitude":-46.3782
+  },
+  {
+    "key": "BRBDO01",
+    "name": "BRBDO01",
+    "latitude": -20.9530,
+    "longitude":-48.3741
+  },
+  {
+    "key": "BRAGD01",
+    "name": "BRAGD01",
+    "latitude": -22.5564,
+    "longitude":-49.1416
+  },
+  {
+    "key": "BRIAT01",
+    "name": "BRIAT01",
+    "latitude": -23.15702,
+    "longitude":-48.4802
+  },
+  {
+    "key": "BRPJR01",
+    "name": "BRPJR01",
+    "latitude": -21.0427,
+    "longitude":-47.2804
+  },
+  {
+    "key": "BRSJE01",
+    "name": "BRSJE01",
+    "latitude": -22.4697,
+    "longitude":-49.1434
   }
  ]
